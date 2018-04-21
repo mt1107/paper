@@ -1,5 +1,5 @@
 Teaching as a career and factor affecting novice teachers' job
-satisfaction in Vietnam
+satisfaction in Cambodia
 
 Pham Thi Thanh Hai^a^[^1], Bùi Minh Trang^a^
 
