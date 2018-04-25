@@ -1,29 +1,36 @@
-Teaching as a career and factor affecting novice teachers' job
-satisfaction in Cambodia
+Teaching as a career and measuring the factors affect novice teachers'
+job satisfaction: Findings from 7 provinces in Vietnam
 
-Pham Thi Thanh Hai^a^[^1], Bùi Minh Trang^a^
+Pham Thi Thanh Hai^a^, Bui Minh Trang^a^
 
-*^a^ University of Education, Vietnam National University Hanoi, Ha Noi,
-Vietnam *
+^a^University of Education, Vietnam National University Hanoi, 144 Xuan
+Thuy, Cau Giay, Hanoi, Vietnam
 
-**Abstract** *The purpose of the study was to understanding what
-motivates novice teacher to choose teaching as a career and what
-motivates them to persist by examining the factor affect novice
-teachers' job satisfaction. We collected data through a quantitative
-survey in 7 geographical regions in Vietnam,* *of.... primary schools.
-The sample consisted of 320 novice primary teachers (1-3 years)
-participated. The result showed that novice teachers chose teaching as
-choice of career mainly because of enjoying working with children and
-opportunity for their future study. Majority of novice teachers hold
-high regards to teaching career in Vietnam. The investigation of the
-variables associated with teacher job satisfaction is expected to
-provide the basis for planning and policy decisions aimed at enhancing
-teacher work commitment and reducing turnover.*
+Highlights
 
-**Keywords:** novice teachers, job satisfaction, teaching career, work
-performance, work motivation, Vietnam
+-   **A**
 
-**Highlights**
+-   **B**
+
+-   **C**
+
+-   **D**
+
+Abstract
+
+The purpose of the study was to understanding what motivates novice
+teacher to choose teaching as a career and measuring the factor affect
+novice teachers' job satisfaction. Quantitative surveys were conducted
+in 7 provinces in Vietnam, of.... primary schools, 320 novice teachers
+participated. Result showed that novice teachers chose teaching mainly
+because of enjoying working with children and further study opportunity.
+Novice teachers hold high regards to the career in Vietnam. The
+investigation of the variables associated with job satisfaction is
+expected to provide the basis for planning and policy decisions aimed at
+enhancing teacher work commitment and reducing turnover.
+
+*Keywords:* novice teachers; job satisfaction; teaching career; work
+performance; work motivation
 
 1.  **Introduction**
 
@@ -51,7 +58,7 @@ effectiveness in working after few years, however they do not remain
 long enough to reach this high-skilled level (Fantilli and McDougall,
 2009). In fact, the accomplishment of an educational organization,
 student performance can to an extensive degree be measured by the level
-of job satisfaction of its teachers.
+of job satisfaction of its teachers (Pepe, 2017).
 
 Chaaban, Y. and Du, X. (2017) According to international research,
 novice teachers may experience several challenges as they adapt to their
@@ -105,7 +112,7 @@ A review of theoretical background on teaching career and job
 satisfaction are set as the ground to analyze and study the influencing
 factors on novice teachers' job satisfaction.
 
-1.  ***Teaching as a career***
+1.  *Teaching as a career*
 
 Research studies mainly indicate three basic types or categories of
 motives for selecting teaching as a career: a. extrinsic motives such as
@@ -168,7 +175,7 @@ expectancies, experienced in particular sociocultural settings within
 the context of different demand and reward structures (Watt et.al.,
 2012)
 
-***2.2. Teacher job satisfaction***
+2.  *Teacher job satisfaction*
 
 Job satisfaction is considered a motivational concept and refers to how
 teachers generally feel about their jobs ([Skaalvik & Skaalvik,
@@ -313,7 +320,8 @@ increasing workloads, the low status that teachers hold in our society,
 and low salaries (Lam & Yan, 2011) and reduced teacher autonomy (Moore,
 2012; Shann, 1998).
 
-![](media/image1.png){width="4.986805555555556in" height="3.6in"}
+![](media/image1.png){width="4.535416666666666in"
+height="3.2741404199475066in"}
 
 **Figure 1:** Job Satisfaction Model (Field, 2008)
 
@@ -378,22 +386,22 @@ on the core business of teaching and allows a reasonable work-life
 balance, teachers are more likely to become engaged in teaching" (p.
 345).
 
-***2.3. The Vietnamese educational context ***
+3.  *The Vietnamese educational context *
 
 In Vietnam, education is always highlighted as the keystone of its
 national development. Vietnamese government distributes nearly 20
-percent of public expenditures to education.[^2] However, in the era of
+percent of public expenditures to education.[^1] However, in the era of
 globalization, Vietnamese authorities also concern that education system
 is still not well equipped skills and competencies to the population in
-achieving greater value and more competitive economy.[^3] Fully
+achieving greater value and more competitive economy.[^2] Fully
 understanding the importance of these challenge and addressing the
 issue, in the Socio-Economic Development Plan (SEDP) for 2011-2015, the
 government highlighted that quick development of high quality human
 resources is essential for the country's industrialization,
-modernization, and the development of a knowledge-based economy. [^4]
+modernization, and the development of a knowledge-based economy. [^3]
 
 In 2013, the Fundamental and Comprehensive Education Reform (FCER) was
-adopted,[^5] which aims for national education to meet "the requirements
+adopted,[^4] which aims for national education to meet "the requirements
 of industrialization and modernization in the socialist oriented market
 economy and international integration." Whereas, general education
 (grades K-12) set as the the primacy of the FCER in which learning
@@ -402,7 +410,7 @@ content-based. Its purpose is to acquire higher-level of cognitive and
 behavioral skills, ability to think critically and creatively, apply
 knowledge from many subject areas to solve practical problems, work in
 teams, and convincingly communicate verbally and in writing for
-Vietnamese students [^6]. However, the realization of such a reform will
+Vietnamese students [^5]. However, the realization of such a reform will
 depend almost exclusively on the preparedness of the teacher to acquire
 the new pedagogical model. Indeed, one of the fundamental principles of
 the FCER stresses that teachers should be equipped to respond to
@@ -420,9 +428,9 @@ address and narrow the gap in coordination among all actors in teacher
 education in order to meet the new demand. The Ministry of Education and
 Training (MOET) has prepared the National Teacher Education Program
 (NTEP) to enable the change more efficiently with consideration the
-needs of teacher and meeting the learning objectives.[^7] The NTEP aims
+needs of teacher and meeting the learning objectives.[^6] The NTEP aims
 to generate a comprehensive strategy for teacher education reform in
-order to meet the new requirements of general education. [^8]
+order to meet the new requirements of general education. [^7]
 
 A significant number of studies on teachers' job satisfaction in Vietnam
 are conducted, however they haven't been published internationally.
@@ -468,22 +476,22 @@ issues: (i) the reason for chosen teaching as career; (ii) the main
 factors that affect to the job satisfaction. From there consider the
 concerning issues and suitable adjustments for novice teachers.
 
-2.  ***Samples and settings ***
+4.  *Samples and settings *
 
 The population for this study was all novice teacher in primary public
 school in Vietnam (2016-2017 academic year), with the teaching
-experience from 1-3 years teaching.
+experience from 1-3 years.
 
 The schools were selected using [random sampling
-technique]{.underline}*.* The samples are primary public schools in 7
-economic-zone in Vietnam, selected in geographic location, namely (1)
-northern midlands and mountainous area (Ha Giang province), (2) northern
-Central area (Nghe An province), (3) Red river delta area (Hai Phong
-province), (4) coastal province in south central region (Quang Nam
-province), (5) central highlands region (Gia Lai province), (6) south
-east region (Tay Ninh province) and (7) Mekong delta region (Can Tho
-province), in which 60.31% are in rural area, the rest are in the city
-area.
+technique]{.underline}*.* The samples are novice teacher in primary
+public schools across 7 economic-zone in Vietnam, selected in geographic
+location, namely (1) northern midlands and mountainous area (Ha Giang
+province), (2) northern Central area (Nghe An province), (3) Red river
+delta area (Hai Phong province), (4) coastal province in south central
+region (Quang Nam province), (5) central highlands region (Gia Lai
+province), (6) south east region (Tay Ninh province) and (7) Mekong
+delta region (Can Tho province), in which 60.31% are in rural area, the
+rest are in the city area.
 
 The samples accounted for 36,61% of total number of 874 novice teachers
 in 7 provinces during the period of the study. The table 1 showed the
@@ -517,43 +525,34 @@ and Training (2016)
 *Source: Data collected from Department of Education and Training in 7
 provinces of sampling*
 
-Trong 7 tỉnh được chọn đại diện cho 7 vùng Kinh tế - Xã hội thì tổng số
-giáo viên của 7 tỉnh là 43.688, giáo viên mới vào nghề chiếm 2% do vậy
-tổng số giáo viên mới vào trường ở 7 tỉnh là 874 giáo viên. Theo phương
-pháp Yamane Taro (1967) thì với một quần thể không lớn và xác định được
-thì cỡ mẫu được xác định n = N/(1+N\*e^2^) (công thức Yamane). Như vậy
-với N = 874; Sai số tiêu chuẩn e = 0.05 với độ tin cậy = 95% và P = 0.5
-thì cỡ mẫu tối thiểu = 274. Nhằm đảm bảo tính chính xác và không bị thất
-lạc mẫu chúng tôi đã lựa chọn cỡ mẫu là 320 giáo viên mới vào nghề
-(chiếm 36,61% so với tổng thể). Để đảm bảo tính đại diện cho các giáo
-viên ở các vị trí trường thuộc khu vực Thành thị và khu vực Nông thôn
-chúng tôi tính toán trên tổng mẫu của 7 tỉnh được chọn cho thấy có
-11.351 giáo viên (25,98%) thuộc trường ở khu vực thành thị và
-32.337(74,02%) giáo viên thuộc trường ở vị trí nông thôn, dựa trên tỷ lệ
-này chúng tôi tiến hành lựa chọn được khoảng 60,31% giáo viên thuộc
-trường ở vị trí nông thôn. Chúng tôi đã tổ chức khảo sát với 320 giáo
-viên với công cụ là phiếu khảo sát, kết quả thực hiện chúng tôi đã thu
-lại được đầy đủ các phiếu khảo sát đã được điền đầy đủ thông tin của 320
-giáo viên. Do các giáo viên cấp Tiểu học phần lớn là các giáo viên Nữ do
-vậy kết quả khảo sát chúng tôi thu được chỉ có khoảng 55 (chiếm17,19%)
-giáo viên Nam. ....
+A total number of teachers in 7 provinces are 43,688, in which novice
+teachers accounts for 2% (\~874 novice teachers). According to Yamane
+Taro (1967) with simplified formula for proportion of samples size n =
+N/(1+N\*e^2^), whereas the population size (N) = 874 and the acceptable
+sampling error (e) = 0.05 (confidence level = 95% and p = 0.5), the
+minimum sample should be 274.
 
-A total of ....? Anonymous questionnaires were distributed to schools,
-and .... Were returned, giving a response rate .....%
+To ensure the accuracy and response rate, the researchers distributed
+questionnaires to 320 participants, using [random sampling
+technique.]{.underline} The sample size accounts for 36.61% of total
+novice teachers in 7 provinces. Since 74.02% of the teachers in 7
+sampling provinces worked at schools that locates in rural areas,
+therefore to warrant a representative sample of the population and
+generalized to the population as a whole, the participated samples
+(60,31% of 320 novice teachers) were from rural areas.
 
-The participated samples of 320 novice teachers, in which consisted of
-17.19.% male and 78.13 % female. The novice teacher participated in the
-survey mostly were formally educated and fully trained, 30.94% with
-degree in teaching, 28.95% with teaching certificate, 20% with both
-degree and diploma/certificate, only 3.13% had postgraduate
-qualification.
+A total of 320 anonymous questionnaires were distributed to schools, and
+all of them were returned, giving a response rate 100 %. The
+participated samples of 320 novice teachers, in which consisted of
+17.19% male and 78.13% female. The fact that there were more women in
+the sample reflects the real situation in Vietnam, whereby there are
+more female teachers than male teacher in Vietnam primary schools. The
+novice teacher participated in the survey mostly were formally educated
+and fully trained, 30.94% with degree in teaching, 28.95% with teaching
+certificate, 20% with both degree and diploma/certificate, only 3.13%
+had postgraduate qualification.
 
-The fact that there were more women in the sample reflects the real
-situation in Vietnam, whereby there are more female teachers than male
-teacher in Vietnam primary schools. The participants were selected using
-[random sampling technique. ]{.underline}
-
-3.  ***Instruments and procedure***
+5.  *Instruments and procedure*
 
 The questionnaire of the present study included general questions
 related to the respondents' demographic and personal factors such as:
@@ -574,12 +573,11 @@ intention of describing the nature of existing conditions (Cohen et al.,
 2000). 
 
 The level of teachers' job satisfaction was assessed according to
-a score (ranging 
+a score (ranging from 1 to 4) obtained on the basis of likert scale
+questions, strongly agree (4), agree (3), disagree (2), strongly
+disagree (1)
 
-from 1 to 4) obtained on the basis of likert scale questions, strongly
-agree (4), agree (3), disagree (2), strongly disagree (1)
-
-4.  ***Statistical methods***
+6.  *Statistical methods*
 
 This is a descriptive study based on the survey method. Data collected
 were analyzed using the statistical package for the social sciences
@@ -588,24 +586,19 @@ used to examine teachers' job satisfaction and stress levels (x2).
 
 3.  **Result and Discussion**
 
-    5.  ***The reason to choose teaching as career***
+    7.  *The reason to choose teaching as career*
 
-The result showed that majority of teachers think the reason to choose
-teaching as career, (1) *"Teaching provides a good opportunity to
-further my studies"* (Mean \~ 3.45), (2) *"I have always enjoyed working
-with children"* (Mean = 3.42), (3) *"People (relatives/friends)
-recommended teaching as a field of study"* (Mean = 3.03). Indeed,
-teacher candidates report that a desire to work with children and
-adolescents is highly influential in attracting people into a teaching
-career (Alexander, Chant, & Cox, 1994; Joseph & Green, 1986; Kyriacou &
-Coulthard, 2000; Moran, Kilpatrick, Abbott, Dallatt, & McClune, 2001;
-Richardson & Watt, 2006; Tudhope, 1944; Valentine, 1934). Equally,
-according to an OECD report (OECD, 2005), studies in France, Australia,
-Belgium (French Community), Canada (Québec), the Netherlands, the Slovak
-Republic, and the U.K. suggest that a desire to work with children and
-adolescents, the potential for intellectual fulfilment, and a means by
-which to make a social contribution, are the most frequently nominated
-reasons for choosing teaching as a career.
+Reason to choose teaching as career, majority of teachers think that (1)
+*"teaching provides a good opportunity to further my studies"* (Mean \~
+3.45), (2) *"enjoying working with children"* (Mean = 3.42), (3)
+*"People (relatives/friends) recommended teaching as a field of study"*
+(Mean = 3.03) **(Figure 3)**. On other hand, reasons that least selected
+by our samples were *"As a teacher I only work half-day, with three/four
+holidays a year" "Teaching provides a good salary"*, with mean of 1.92
+and 2.07 respectively **(Table 2)**. It is suggested that the reason
+that a large number of teachers decide to enter into teaching
+profession, mainly because of passion and mission. Other factors, such
+as salary and payroll are not considered significant.
 
 **Table 2: Data collected on novice teachers' reason for choosing
 teaching**
@@ -626,19 +619,36 @@ teaching**
 **Figure 3:** data collected on novice teachers' reason for choosing
 teaching
 
-On other hand, reasons that least selected by our samples were *"As a
-teacher I only work half-day, with three/four holidays a year" "Teaching
-provides a good salary"*, with mean of 1.92 and 2.07 respectively. This
-result suggested that the reason that a large number of teachers decide
-to enter into teaching profession, mainly because of passion and
-mission. Other factors, such as salary and payroll are not considered
-significant. However, studies conducted in very different sociocultural
-contexts such as in Brunei (Yong, 1995), Zimbabwe (Chivore, 1988),
-Cameroon (Abangma, 1981), and Jamaica (Bastick, 1999), have found that
-the extrinsic motives to be fundamental, in the form of salary, job
-security, and career status. It seems clear that different sociocultural
-contexts potentially frame and shape motivations for career choice,
-satisfaction and persistence.
+Similar to the result findings, a number of studies report that a desire
+to work with children and adolescents is dominant reason in drawing
+individuals into a teaching career (Alexander et al., 1994; Joseph &
+Green, 1986; Kyriacou & Coulthard, 2000; Moran et al., 2001; Richardson
+& Watt, 2006; Tudhope, 1944; Valentine, 1934). Equally, according to an
+OECD report (OECD, 2005), studies in France, Australia, Belgium (French
+Community), Canada (Québec), the Netherlands, the Slovak Republic, and
+the U.K. highlight the common selected reasons for choosing teaching as
+a career are a desire to work with children and adolescents, the
+opportunities for intellectual fulfilment, and contribute to society. In
+contrast, findings showed in varied sociocultural settings such as in
+Brunei (Yong, 1995), Zimbabwe (Chivore, 1988), Cameroon (Abangma, 1981),
+and Jamaica (Bastick, 1999), have showed that the extrinsic motives to
+be ultimate, in the form of salary, job security, and career status. It
+seems evident that diverse sociocultural settings possibly form and
+shape motivations for career choice, satisfaction and persistence.
+
+The collected data of teachers' answer on whether they would choose
+again their career **(Table 3)** shows that there are many different
+perspectives, however 16.25% (52 teachers) of the sample wants to change
+career. In which, previously 48 teachers were keens to choose teaching
+as career because of enjoying working with children, and 42 teachers who
+highly regarded teaching provides opportunity to further studies,
+however these samples chose not select teaching as their career. The
+difference between two answers of choosing teaching profession again and
+the reason for being a teacher (P = 0.027 \< 0.05) shows that after a
+period of working, they have changed mind in considering teaching as a
+career. Although only small samples selected not to remain in teaching
+career, yet with regards to the reason for choosing teaching, it's
+essential to have adjustment in teacher policy.
 
 **Table 3:** Comparison the two variables of reason for chosen teaching
 as career vs choosing teaching profession again
@@ -650,28 +660,15 @@ as career vs choosing teaching profession again
   Teaching provides a good opportunity to further my studies.   Yes                                    0                   4          123     133              ***260***     0.011
                                                                 No                                     0                   8          23      19               ***50***      
 
-The collected data of teachers' answer on whether they would choose
-again their career shows that there are many different perspectives,
-however 16.25% (52 teachers) of the sample wants to change career. In
-which, previously 48 teachers were keens to choose teaching as career
-because of enjoying working with children, and 42 teachers who highly
-regarded teaching provides opportunity to further studies, however these
-samples chose not select teaching as their career. The difference
-between two answers of choosing teaching profession again and the reason
-for being a teacher (P = 0.027 \< 0.05) shows that after a period of
-working, they have changed mind in considering teaching as a career.
-Although only small samples selected not to remain in teaching career,
-yet with regards to the reason for choosing teaching, it's essential to
-have adjustment in teacher policy. Researchers who have examined the
-phenomenon of the career switcher into teaching in various countries
-have suggested that the rewards of salary and career prestige are not a
-high priority for this group who decide later on a career change (Crow,
-Levine, & Nager, 1990; Mayotte, 2003; Priyadharshini & Robinson-Pant,
-2003; Richardson & Watt, 2005). In societies in which career success is
-measured by salary, career prestige, and social status, the decision to
-switch to a job that provides for personal satisfaction, the rewards of
-making a social contribution, and a desire to keep learning, is often
-seen as an ''implausible choice'' (Crow et al., 1990, p. 197).
+Few researches notice that the rewards of salary and career prestige are
+not a high priority for people decide later on a career change into
+teaching (Crow et al., 1990; Mayotte, 2003; Priyadharshini &
+Robinson-Pant, 2003; Richardson & Watt, 2005). In societies in which
+career success is measured by salary, career prestige, and social
+status, the decision to switch to a job that provides for personal
+satisfaction, the rewards of making a social contribution, and a desire
+to keep learning, is often seen as an ''implausible choice'' (Crow et
+al., 1990, p. 197).
 
 Recent work in the U.S. (Liu et al., 2000) suggests that the increasing
 salary gap between teaching and other professions, poor working
@@ -696,21 +693,19 @@ Center for Education Statistics (NCES) Schools and Staffing Survey
 (SASS) for 1987--88 and 1993--94. She found that positive perceptions of
 workplace conditions predicted a stronger commitment to teaching.
 
-6.  ***Factors affect to the novice teachers job satisfaction***
+8.  *Factors affect novice teachers' job satisfaction*
 
 The researchers studied the factors by examining the external
 environment that influence the samples' (novice teachers) job
-satisfaction.
-
-Researched on the perception on teaching career in the community where
-the samples work and live showed that *"teaching is a threat to the
-culture of my community" "my community will always see teaching as a low
-status job" "it is changing (my community is starting to see the value
-of teacher)"* have low mean of 1.27, 1.57 and 2.94 correspondingly.
-Whereas, teaching is highly regarded in the community accounts high mean
-(3.37). The result exhibited the bright future and repute of teaching in
-the teachers' community. The data can be analyzed that the threat from
-surrounding community to the job is very minimal.
+satisfaction. Researched on the perception on teaching career in the
+community where the samples work and live showed that *"teaching is a
+threat to the culture of my community" "my community will always see
+teaching as a low status job" "it is changing (my community is starting
+to see the value of teacher)"* have low mean of 1.27, 1.57 and 2.94
+correspondingly. Whereas, teaching is highly regarded in the community
+accounts high mean (3.37). The result exhibited the bright future and
+repute of teaching in the teachers' community. The data can be analyzed
+that the threat from surrounding community to the job is very minimal.
 
 **Table 4:**
 
@@ -842,8 +837,8 @@ found in poor quality of ICT (7.41% and 77.7%); insufficient salary
 rural areas and township areas (25% and 75%), whereas novice teachers in
 inner-city areas gave no evaluation.
 
-![](media/image3.jpg){width="6.595833333333333in"
-height="3.667361111111111in"}
+![](media/image3.jpg){width="6.515898950131233in"
+height="3.622916666666667in"}
 
 **Figure 4:**
 
@@ -873,7 +868,11 @@ Teachers' perceptions can inform policymakers of problem areas in which
 intervention measures might bring about real improvement in their
 professional commitment
 
-5.  **Reference**
+**Conflict of Interest **
+
+The author declare that they have no conflict of interest
+
+References
 
 Abangma, M. A. (1981). A study of primary teachers' attitudes towards
 ruralisation of school curriculum in English speaking Cameroon. Unpub-
@@ -899,8 +898,8 @@ September). Comparison of education systems: understanding the
 international variation of student achieve- ment. In Paper presented at
 the ECER annual conference, Hamburg.
 
-Bell, B. (1989) What the public thinks, *Report: Assistant Masters and
-Mistresses Association,* 11(4), 10.
+Bell, B. (1989) What the public thinks, Report: Assistant Masters and
+Mistresses Association, 11(4), 10.
 
 Bick-har Lam & Hoi-fai Yan (2011) Beginning teachers' job satisfaction:
 the impact of school-based factors, Teacher Development: An
@@ -918,12 +917,12 @@ Brookhart, S. M. & Freeman, D.J. (1992). Characteristics of Entering
 Teacher Candidates, Review of Educational Research, 62.1, 37-60.
 
 C.F. Mansfield, S. Beltman, T. Broadley, N. Weatherby-Fel. L (2016).
-**Building resilience in teacher education: An evidenced informed
-framework**. Teaching and Teacher Education, 54 (2016), pp. 77-87
+Building resilience in teacher education: An evidenced informed
+framework. Teaching and Teacher Education, 54 (2016), pp. 77-87
 
-Central Office of Information Research (2000) *Attitudes towards
-teachers - Public Opinion Survey: prepared for the General Teaching
-Council by Central Office of Information.* Available online at:
+Central Office of Information Research (2000) Attitudes towards teachers
+- Public Opinion Survey: prepared for the General Teaching Council by
+Central Office of Information. Available online at:
 http://www.gtce.org.uk/research/opinionpoll.asp (accessed 24 October
 2002).
 
@@ -936,8 +935,8 @@ attractiveness of teaching profession in Zimbabwe. International Review
 of Education, 34(1), 59-77
 
 Clotfelter, C. T., Ladd, H. F., & Vigdor, J. (2005). Who teaches whom?
-Race and the distribution of novice teachers. *Economics of Education
-Review*, *24*(4), 377-392. 
+Race and the distribution of novice teachers. Economics of Education
+Review, 24(4), 377-392. 
 
 Clotfelter, C. T., Ladd, H. F., & Vigdor, J. (2005). Who teaches whom?
 Race and the distribution of novice teachers. Economics of Education
@@ -946,12 +945,12 @@ Review, 24(4), 377-392.
 Cockburn, A. (2000). Elementary teachers' needs: Issues of retention and
 recruitment. Teaching and Teacher Education, 16, 223--238.
 
-Cohen, L., Manion, L. and Morrison, M. (2000). *Research Methods in
-Education*, 5^th^ ed., London: Routledge Falmer.
+Cohen, L., Manion, L. and Morrison, M. (2000). Research Methods in
+Education, 5th ed., London: Routledge Falmer.
 
 Collie, R. J., Shapka, J. D., & Perry, N. E. (2012). School climate and
 social--emotional learning: Predicting teacher stress, job satisfaction,
-and teaching efficacy. *Journal of Educational Psychology*, *104*(4),
+and teaching efficacy. Journal of Educational Psychology, 104(4),
 1189-1204. 
 
 Collie, R. J., Shapka, J. D., & Perry, N. E. (2012). School climate and
@@ -969,7 +968,7 @@ career changers who become teachers. American Journal of Education, 98,
 197e223.
 
 Cunningham, P. (1992) Teachers' professional image and the press,
-1950--1990, *History of Education,* 21(1), 37--56.
+1950--1990, History of Education, 21(1), 37--56.
 
 Czubaj, C. (1996). Maintaining teacher motivation. Education, 116(3).
 
@@ -979,31 +978,30 @@ and mathematics. Canberra: Department of Education, Science and
 Training.
 
 Desimone, L. (2009). Improving impact studies of teachers' professional
-development: Toward better conceptualizations and measures. *Educational
-Researcher, 38*(3), 181--199
+development: Toward better conceptualizations and measures. Educational
+Researcher, 38(3), 181--199
 
-Dinham, S. S. (1997). *Modelling teacher satisfaction: findings from 892
-teaching staff at 71 schools.* Chicago, IL
+Dinham, S. S. (1997). Modelling teacher satisfaction: findings from 892
+teaching staff at 71 schools. Chicago, IL
 
-Dinham, S., & Scott, C. (1997). *Modelling teacher satisfaction:
-Findings from 892 teaching staff at 71 schools*. Paper presented at the
-American Educational Research Association Annual Meeting, April,
-Chicago, IL.
+Dinham, S., & Scott, C. (1997). Modelling teacher satisfaction: Findings
+from 892 teaching staff at 71 schools. Paper presented at the American
+Educational Research Association Annual Meeting, April, Chicago, IL.
 
 Dinham, S., & Scott, C. (1997). Modelling teacher satisfaction: Findings
 from 892 teaching staff at 71 schools. Paper presented at the American
 Educational Research Association Annual Meeting, April, Chicago, IL.
 
 Dinham, S., & Scott, C. (1998). A three domain model of teacher and
-school executive career satisfaction. *Journal of Educational
-Administration, 36*(4), 362-378.
+school executive career satisfaction. Journal of Educational
+Administration, 36(4), 362-378.
 
 Dinham, S., & Scott, C. (1998). A three domain model of teacher and
 school executive career satisfaction. Journal of Educational
 Administration, 36(4), 362-378.
 
 Dinham, S., & Scott, C. (2000). Moving into the third, outer domain of
-teacher satisfaction. *Journal of Educational Administration, 38*(4),
+teacher satisfaction. Journal of Educational Administration, 38(4),
 379-396. 
 
 E.M. Skaalvik, S. Skaalvik (2015) **Job satisfaction, stress and coping
@@ -1022,8 +1020,8 @@ exploration of the support structure and culture for beginning teachers
 at primary schools needed to improve retention of primary school
 teachers. Teaching and Teacher Education, 42, 23-33.
 
-Glass, D. V. (Ed.) (1954) *Social mobility in Britain* (2nd edn)
-(London: Routledge & Kegan Paul).
+Glass, D. V. (Ed.) (1954) Social mobility in Britain (2nd edn) (London:
+Routledge & Kegan Paul).
 
 Gottfredson, L. S. (1981). Circumscription and compromise: A
 developmental theory of occupational aspirations. Journal of Counseling
@@ -1037,11 +1035,11 @@ Halász, G., Santiago, P., Ekholm, M., Matthews, P., & McKenzie, P.
 note: Germany. Paris: OECD.
 
 Hammond, M. (2002). Why Teach? A case study investigating the decision
-to train to teach ICT, *Journal of Education for*  *Teaching:
-International Research and Pedagogy* 28.2, 135-148.  
+to train to teach ICT, Journal of Education for  Teaching: International
+Research and Pedagogy 28.2, 135-148.  
 
-Hayes, S. (1990) *Students' Reasons for Entering the Educational
-Profession*, Research Report (35 pp.). Oklahoma: North-western Oklahoma
+Hayes, S. (1990) Students' Reasons for Entering the Educational
+Profession, Research Report (35 pp.). Oklahoma: North-western Oklahoma
 State University. https://files.eric.ed.gov/fulltext/ED366234.pdf
 
 Helen M.G. Watt, Paul W. Richardson, Uta Klusmann, Mareike Kunter, Beate
@@ -1049,20 +1047,20 @@ Beyer, Ulrich Trautwein, Jürgen Baumert. Motivations for choosing
 teaching as a career: An international comparison using the FIT-Choice
 scale. Teaching and Teacher Education 28(2012), 791-805.
 
-Herzberg, F., Mausner, B., & Snyderman, B. B. (1959). *The motivation to
-work*. Piscataway, NJ: Transaction Publishers.
+Herzberg, F., Mausner, B., & Snyderman, B. B. (1959). The motivation to
+work. Piscataway, NJ: Transaction Publishers.
 
-Herzberg, F., Mausner, B., & Snyderman, B. B. (1959). *The motivation to
-work*. Piscataway, NJ: Transaction Publishers.
+Herzberg, F., Mausner, B., & Snyderman, B. B. (1959). The motivation to
+work. Piscataway, NJ: Transaction Publishers.
 
 Høigaard, R., Giske, R., & Sundsli, K. (2012). Newly qualified
 teachers\' work engagement and teacher efficacy influences on job
 satisfaction, burnout, and the intention to quit. European Journal of
 Teacher Education, 35(3), 347e357
 
-Johnson, J. & Duffett, A. (2003) *An assessment of survey data on
+Johnson, J. & Duffett, A. (2003) An assessment of survey data on
 attitudes about teaching---including the views of parents,
-administrators, teachers and the general public* (New York, Public
+administrators, teachers and the general public (New York, Public
 Agenda). Available online at:
 http://www.publicagenda.org/research/research\_topic.cfm (accessed 4 May
 2004).
@@ -1078,12 +1076,12 @@ teachers. Journal of Teacher Education, 37(6), 28-33
 
 Journal of Educational Administration, 38 (4) (2000), pp. 379-396
 
-Judge, H. (1995) The image of teachers, *Oxford Review of Education,*
+Judge, H. (1995) The image of teachers, Oxford Review of Education,
 21(3), 253--265.
 
 Kardos, S., & Moore Johnson, S. (2007). On their own and presumed
-expert: New teachers' experience with their colleagues. *Teacher College
-Record, 109*(9), 2083-2106.
+expert: New teachers' experience with their colleagues. Teacher College
+Record, 109(9), 2083-2106.
 
 Kardos, S., & Moore Johnson, S. (2007). On their own and presumed
 expert: New teachers' experience with their colleagues. The Teachers
@@ -1095,17 +1093,17 @@ Research and Pedagogy, 26, 117e126
 
 Kyriacou, C., Hultren, A. & Stephens, P. (1999). Student teachers'
 motivation to become a secondary school teachers in  England and Norway,
-*Teacher Development* 3, 373-381. \
+Teacher Development 3, 373-381. \
 L. Gaikhorst, J.J. Beishuizen, I.M. Korstjens, M.L. Volman. (2014).
-**Induction of beginning teachers in urban environments: An exploration
-of the support structure and culture for beginning teachers at primary
-schools needed to improve retention of primary school teachers**
+Induction of beginning teachers in urban environments: An exploration of
+the support structure and culture for beginning teachers at primary
+schools needed to improve retention of primary school teachers
 
 Lam, B. H., & Yan, H. F. (2011). Beginning teachers\' job satisfaction:
 The impact of school-based factors. Teacher Development, 15(3), 333e348.
 
 Lam, B. H., & Yan, H. F. (2011). Beginning teachers' job satisfaction:
-The impact of school- based factors. *Teacher Development*, *15*(3),
+The impact of school- based factors. Teacher Development, 15(3),
 333-348.
 
 Liu, E., Kardos, S. M., Kauffman, D., Preske, H. G., & Johnson, S. M.
@@ -1122,8 +1120,8 @@ climate and teacher efficacy in behavior management on job satisfaction
 and burnout: A longitudinal study. Teaching and Teacher Education, 60,
 144e152
 
-Maslow, A. (1943). A theory of human motivation. *Psychological Review,
-50*, 370-396
+Maslow, A. (1943). A theory of human motivation. Psychological Review,
+50, 370-396
 
 Mayotte, G. A. (2003). Stepping stones to success: previously developed
 career competencies and their benefits to career switchers transitioning
@@ -1146,18 +1144,18 @@ Evaluation and Research in Education 15.1, 17-32.
 
 Moran, A., Kilpatrick, R., Abbott, L., Dallat, J. & McClune, B. (2001).
 Training to teach: motivating factors and implications  for recruitment,
-*Evaluation and Research in Education* 15.1, 17-32  
+Evaluation and Research in Education 15.1, 17-32  
 
 Moran, A., Kilpatrick, R., Abbott, L., Dallatt, J., & McClune, B.
 (2001). Training to teach: motivating factors and implications for
 recruitment. Evaluation & Research in Education, 15(1), 17e32
 
-MORI (2004) *Annual survey of trust in professions.* Available online
-at: http://www.mori.com/polls/ 2004/bma.shtml (accessed 26 April 2004).
+MORI (2004) Annual survey of trust in professions. Available online at:
+http://www.mori.com/polls/ 2004/bma.shtml (accessed 26 April 2004).
 
-MORI (2005) *Doctors top public opinion poll on trustworthy
-professions.* Available online at:
-http://www.mori.com/polls/2005/bma.shtml (accessed 18 March 2005).
+MORI (2005) Doctors top public opinion poll on trustworthy professions.
+Available online at: http://www.mori.com/polls/2005/bma.shtml (accessed
+18 March 2005).
 
 OECD. (2005). Teachers matter: Attracting, developing and retaining
 effective teachers. Paris: OECD Publishing.
@@ -1171,8 +1169,8 @@ teaching: an investigation into why people change careers to teach.
 Journal of Education for Teaching: International Research and Pedagogy,
 29, 95e112.
 
-R.D. Fantilli, D.E. McDougall (2009). **A study of novice teachers:
-Challenges and supports in the first years**. Teaching and Teacher
+R.D. Fantilli, D.E. McDougall (2009). A study of novice teachers:
+Challenges and supports in the first years. Teaching and Teacher
 Education, 25 (6) (2009), pp. 814-825
 
 Ramsay, G. (2000). Quality matters. Revitalising teaching: Critical
@@ -1202,8 +1200,8 @@ why? Profiling characteristics and motivations across three Australian
 universities. Asia-Pacific Journal of Teacher Education, 34(1), 27e56
 
 Rustique-Forrester, E. & Haselkorn, H. (2002) Learning from the US, in:
-M. Johnson & J. Hallgarten (Eds) *From victims of change to agents of
-change: the future of the teaching profession* (London, Institute for
+M. Johnson & J. Hallgarten (Eds) From victims of change to agents of
+change: the future of the teaching profession (London, Institute for
 Public Policy Research).
 
 S. Dinham, C. Scott (2000). **Moving into the third, outer domain of
@@ -1211,8 +1209,8 @@ teacher satisfaction.** Journal of Educational
 Administration, 38 (4) (2000), pp. 379-396
 
 Sergiovanni, T. (1967). Factors which affect satisfaction and
-dissatisfaction of teachers. *Journal of Educational Administration,
-5*(1), 66-82.
+dissatisfaction of teachers. Journal of Educational Administration,
+5(1), 66-82.
 
 Shann, M. H. (1998). Professional commitment and satisfaction among
 teachers in urban middle schools. The Journal of Educational Research,
@@ -1223,8 +1221,8 @@ teachers in urban in urban middle school. The Journal of Educational
 Research, 92(2), 67-73.
 
 Sinclair, C. (2008). Initial and changing student teacher motivation and
-commitment to teaching, *Asia-Pacific Journal of*  *Teacher Education*
-36.2, 79-104  
+commitment to teaching, Asia-Pacific Journal of  Teacher Education 36.2,
+79-104  
 
 Skaalvik, E. M., & Skaalvik, S. (2011). Teacher job satisfaction and
 motivation to leave the teaching profession: Relations with school
@@ -1251,9 +1249,9 @@ Super, D. E. (1953). A theory of vocational development. American
 Psychologist 8, 185-190.
 
 T. Lomas, J.C. Medina, I. Ivtzan, S. Rupprecht, F.J. Eiroa-Orosa (2017).
-**The impact of mindfulness on the wellbeing and performance of
-educators: A systematic review of the empirical literature**. Teaching
-and Teacher Education, 61 (2017), pp. 132-141
+The impact of mindfulness on the wellbeing and performance of educators:
+A systematic review of the empirical literature. Teaching and Teacher
+Education, 61 (2017), pp. 132-141
 
 Tait, M. (2008). Resilience as a contributor to novice teacher success,
 commitment, and retention. Teacher Education Quarterly, 35(4), 57e75.
@@ -1276,18 +1274,18 @@ Valentine, C. W. (1934). An enquiry as to reasons for the choice of the
 teaching profession by university students. British Journal of
 Educational Psychology, 4, 237e259.
 
-Vroom, V. H. (1964). *Work and Motivation.* New York: John Wiley
+Vroom, V. H. (1964). Work and Motivation. New York: John Wiley
 
 Wei, R. C., Andree, A., & Darling-Hammond, L. (2009). How nations invest
-in teachers. *Educational Leadership, 66*(5), 28-33.
+in teachers. Educational Leadership, 66(5), 28-33.
 
 Yong, B. C. S. (1995). Teacher trainees' motives for entering into a
 teaching career in Brunei Darussalam. Teaching and Teacher Education,
 11(3), 275-280.
 
 Yoon, K. S., Duncan, T, Lee, S. W. Y., Scarloss, B., & Shapley, K.
-(2007). *Reviewing the evidence on how teacher professional development
-affects student achievement*. Washington, DC: U.S. Department of
+(2007). Reviewing the evidence on how teacher professional development
+affects student achievement. Washington, DC: U.S. Department of
 Education, Institute of Education Sciences, National Center for
 Education Evaluation and Regional Assistance, Regional Educational
 Laboratory Southwest.
@@ -1305,35 +1303,36 @@ Characteristics on job satisfaction of University Faculty in Vietnam.
 International Journal of Academic Research in Progressive Education and
 Development, 2(4), 78-92.
 
-Czubaj, C. (1996). Teaching and Teacher Education. *Education, 116*(3).
+Czubaj, C. (1996). Teaching and Teacher Education. Education, 116(3).
 
 Skaalvik, E. M., & Skaalvik, S. (2010). Teacher self-efficacy and
-teacher burnout: A study of relations. *Teaching and Teacher Education,
-26*(4), 1059-1069.
+teacher burnout: A study of relations. Teaching and Teacher Education,
+26(4), 1059-1069.
 
-[^1]: ^\*^ Corresponding author. University of Education, Vietnam
-    National University Hanoi, 144 Xuan Thuy, Cau Giay, Hanoi, Vietnam.
-    Email: haiphamtt\@vnu.edu.vn
+Pepe, A. & Addimando, L. & Veronese, G. (2017). Measuring Teacher Job
+Satisfaction: Assessing invariance in the teacher job satisfaction scale
+(TJSS) Across six countries. Europe\'s Journal of Psychology, 2017, Vol.
+13(3), 396--416
 
-[^2]: ^Education\ at\ a\ Glance,\ OECD.\ 2011.\ Page\ 248.^
+[^1]: ^Education\ at\ a\ Glance,\ OECD.\ 2011.\ Page\ 248.^
 
-[^3]: Skilling Up Vietnam: Preparing the Workforce for the Modern Market
+[^2]: Skilling Up Vietnam: Preparing the Workforce for the Modern Market
     Economy, World Bank. November 2013
 
-[^4]: Vietnamese Government. 2010. Socio-Economic Development Strategy
+[^3]: Vietnamese Government. 2010. Socio-Economic Development Strategy
     for 2011-2015
 
-[^5]: Resolution No 29/NQ-TW issued on 4th November 2013 of the 8th
+[^4]: Resolution No 29/NQ-TW issued on 4th November 2013 of the 8th
     Conference of the 11th Session of the Central Executive Committee on
     Fundamental and Comprehensive Education Reform.
 
-[^6]: Ibid.
+[^5]: Ibid.
 
-[^7]: The MOET has recently submitted the National Teacher Education
+[^6]: The MOET has recently submitted the National Teacher Education
     Program to the government for approval and authorization. These
     endorsements are expected before Negotiations.
 
-[^8]: The MOET is currently developing a complementary program to
+[^7]: The MOET is currently developing a complementary program to
     reorganize and rationalize the network of TTIs. Once MOET finalizes
     and approves this program, it will take the lead in ensuring that it
     is closely coordinated with ETEP and NTEP, and that it effectively
