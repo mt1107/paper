@@ -381,7 +381,7 @@ fact that there were more women reflects the fact that there are more
 female teachers than male teachers in Vietnam primary schools. 60,31% of
 the participants were from rural areas. Most participants were formally
 educated and fully trained: 30.94% had degrees in teaching, 28.95% had
-teaching certificates, 20% had both degreess and diplomas/certificates,
+teaching certificates, 20% had both degrees and diplomas/certificates,
 and 3.13% had postgraduate qualification.
 
 5.  *Instruments and procedure*
@@ -589,60 +589,60 @@ teachers.
   It is changing. (My community is starting to see the value of teacher.)                                             1.25    14.69   68.44   11.88   3.75      2.94   0.571
   Teaching is a threat to the culture of my community.                                                                73.13   21.25   0.94    0.94    3.75      1.27   0.525
   My community holds teaching in high regard.                                                                         0.31    2.5     55.94   39.38   1.88      3.37   0.551
-  Parents value me as a teacher.                                                                                      0.94    18.44   34.06   45.94   0.63      3.26   0.781
-  Society has a high regard for teachers.                                                                             1.25    18.44   33.44   45.94   0.94      3.26   0.767
+  Parents value me as a teacher.                                                                                      0.94    18.44   34.06   45.94   0.63      3.26   0.788
+  Society has a high regard for teachers.                                                                             1.25    18.44   33.44   45.94   0.94      3.25   0.799
                                                                                                                                                                        
   **Personal growth**                                                                                                                                                  
-  Insufficient number of in-service training opportunities                                                            14.38   32.19   31.56   20      1.88      2.42   0.97
-  Low prospects of securing study leave to pursue further studies/training                                            27.5    40.63   21.88   7.81    2.19      2.9    0.9
+  Insufficient number of in-service training opportunities                                                            14.38   32.19   31.56   20      1.88      2.42   0.973
+  Low prospects of securing study leave to pursue further studies/training                                            27.5    40.63   21.88   7.81    2.19      2.90   0.904
                                                                                                                                                                        
   **Responsibility**                                                                                                                                                   
-  Too much work                                                                                                       15.31   53.75   24.38   5       1.56      2.81   0.76
-  The classes at my school are overcrowded                                                                            0.63    40.31   45.31   12.19   1.56      2.69   0.690
+  Too much work                                                                                                       15.31   53.75   24.38   5       1.56      2.81   0.755
+  The classes at my school are overcrowded                                                                            0.63    40.31   45.31   12.19   1.56      2.70   0.686
   **Pay**                                                                                                                                                              
-  Insufficient salary                                                                                                 11.56   34.38   35.63   17.5    0.94      2.4    0.91
+  Insufficient salary                                                                                                 11.56   34.38   35.63   17.5    0.94      2.40   0.911
                                                                                                                                                                        
   **Administration**                                                                                                                                                   
-  Administration staffs at the school are competent.                                                                  1.25    6.56    68.13   23.13   0.94      3.14   0.573
+  Administration staffs at the school are competent.                                                                  1.25    6.56    68.13   23.13   0.94      3.14   0.575
                                                                                                                                                                        
   **Superiors**                                                                                                                                                        
-  Conflict with educational authorities                                                                               31.88   22.81   23.75   20      1.56      2.68   1.13
-  Conflict with school management                                                                                     27.5    26.56   26.25   18.13   1.56      2.64   1.08
-  Management at my school is not supportive.                                                                          27.19   63.75   5.94    0.63    2.5       3.53   0.526
-  I believe that my head of department is competent.                                                                          0.31    46.25   52.81   0.63      3.52   0.507
+  Conflict with educational authorities                                                                               31.88   22.81   23.75   20      1.56      2.68   1.130
+  Conflict with school management                                                                                     27.5    26.56   26.25   18.13   1.56      2.64   1.077
+  Management at my school is not supportive.                                                                          27.19   63.75   5.94    0.63    2.5       1.79   0.570
+  I believe that my head of department is competent.                                                                          0.31    46.25   52.81   0.63      3.53   0.506
   **Promotion**                                                                                                                                                        
-  Low prospects for promotion                                                                                         37.5    36.25   20.63   2.5     3.13      3.12   0.83
+  Low prospects for promotion                                                                                         37.5    36.25   20.63   2.5     3.13      3.12   0.831
                                                                                                                                                                        
   **Work conditions**                                                                                                                                                  
-  My classroom is sufficient for teaching and learning.                                                               3.44    10.31   63.13   22.5    0.63      3.05   0.684
-  There are sufficient resources (e.g. books) at my school to assist me in teaching.                                  0.31    14.06   60.94   23.75   0.94      3.09   0.628
+  My classroom is sufficient for teaching and learning.                                                               3.44    10.31   63.13   22.5    0.63      3.05   0.683
+  There are sufficient resources (e.g. books) at my school to assist me in teaching.                                  0.31    14.06   60.94   23.75   0.94      3.09   0.622
   My school provides an effective environment for teaching and learning that contributes to my professional status.           0.94    64.38   33.44   1.25      3.33   0.490
                                                                                                                                                                        
   **Colleagues**                                                                                                                                                       
-  Lack of communication with other teachers                                                                           25      34.69   25.31   13.75   1.25      2.72   1
-  Conflict with colleague(s)                                                                                          29.69   25.63   23.13   20.31   1.25      2.66   1.12
+  Lack of communication with other teachers                                                                           25      34.69   25.31   13.75   1.25      2.72   0.995
+  Conflict with colleague(s)                                                                                          29.69   25.63   23.13   20.31   1.25      2.66   1.115
                                                                                                                                                                        
   **School leadership**                                                                                                                                                
   I respect my principal.                                                                                                     1.25    26.69   68.13   0.94      3.68   0.495
-  My principal values and supports my professional development                                                        0.63    1.56    53.44   43.75   0.63      3.41   0.561
-  Principals are often appointed because they know the right people and not because of their competence.              20.63   67.50   10      0.94    0.94      1.91   0.586
+  My principal values and supports my professional development                                                        0.63    1.56    53.44   43.75   0.63      3.41   0.559
+  Principals are often appointed because they know the right people and not because of their competence.              20.63   67.50   10      0.94    0.94      1.91   0.583
                                                                                                                                                                        
   **School reputation**                                                                                                                                                
-  I feel proud to be a teacher at my school.                                                                                  0.94    53.75   44.69   0.63      3.43   0.516
+  I feel proud to be a teacher at my school.                                                                                  0.94    53.75   44.69   0.63      3.44   0.516
                                                                                                                                                                        
   **School infrastructure**                                                                                                                                            
-  Poor quality of general social infrastructure (classroom, lighting, tools, etc.                                     15.31   38.13   27.5    16.56   2.5       2.54   0.95
-  There is enough space for learners to play during break time.                                                       0.63    8.13    62.81   26.88   1.56      3.17   0.598
-  Poor quality of Information and Communication Technology (ICT)                                                      10.94   48.75   29.38   8.44    2.5       2.64   0.79
+  Poor quality of general social infrastructure (classroom, lighting, tools, etc.                                     15.31   38.13   27.5    16.56   2.5       2.54   0.952
+  There is enough space for learners to play during break time.                                                       0.63    8.13    62.81   26.88   1.56      3.18   0.592
+  Poor quality of Information and Communication Technology (ICT)                                                      10.94   48.75   29.38   8.44    2.5       2.64   0.794
 
 With regarding to different school setting, the below figure (Figure 4)
 revealed the factors affect novice teachers' job satisfaction in inner
 city, rural and township areas. The results indicated that novice
 teachers paid much concern on the salary, especially in the inner city
-(mean\~2.48) and rural areas (mean\~2.51), the stress on salary in
-township areas were lowest (mean\~2.18). Regarding to prospective for
+(mean=2.48) and rural areas (mean=2.51), the stress on salary in
+township areas were lowest (mean=2.18). Regarding to prospective for
 promotion, the difference showed only in township areas (2.90), data of
-novice teachers in inner-city (mean\~3.15) and rural areas (mean\~3.23)
+novice teachers in inner-city (mean=3.15) and rural areas (mean=3.23)
 were observed to have the the same level of concern. For the rural areas
 and township areas, the highest concern was the promotion, while inner
 city areas, colleague's relationship and the opportunities to pursue
